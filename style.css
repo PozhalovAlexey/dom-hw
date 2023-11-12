@@ -1,0 +1,20 @@
+.gameContainer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 420px;
+    height: 420px;
+    gap: 10px;
+}
+
+.gameCell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: royalblue;
+}
+.char{
+    width: 60px;
+    height: 60px;
+}
