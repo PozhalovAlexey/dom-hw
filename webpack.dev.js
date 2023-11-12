@@ -1,10 +1,10 @@
 const webpack = require('webpack');
 const { merge } = require('webpack-merge');
-const common = require('./webpack.common');
+const common = require('./webpack.config');
 
 module.exports = merge(common, {
   // Set the mode to development or production
-  mode: 'development',
+  mode: 'production',
   // Control how source maps are generated
   devtool: 'inline-source-map',
 
