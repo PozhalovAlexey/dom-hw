@@ -37,5 +37,5 @@
     "html-loader": "^4.2.0",
     "prettier": "^3.0.3"
   },
-  "description": ""
+  "description": "Игра с элементами DOM"
 }
