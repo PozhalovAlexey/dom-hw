@@ -1,7 +1,6 @@
 {
   "name": "dom-hw",
   "version": "1.0.0",
-  "description": "",
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
@@ -37,5 +36,6 @@
     "core-js": "^3.33.2",
     "html-loader": "^4.2.0",
     "prettier": "^3.0.3"
-  }
+  },
+  "description": ""
 }
